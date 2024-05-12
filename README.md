@@ -6,7 +6,7 @@ Resonance Security public audits
 
 | Project            | Audit Name                               | PDF Report                                                                                                                                             | Release Date (YYYY-MM-DD) |
 | ------------------ | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------- |
-| Nodle              | Rollup Bridge Audit                      | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Solidity%20Smart%20Contract%20Audits/Audit_Report_NODL-RBR_FINAL_20.pdf)             | 2024-05-12                |
+| Nodle              | Rollup Bridge Audit                      | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Other/Audit_Report_NODL-RBR_FINAL_20.pdf)                                            | 2024-05-12                |
 | Calculated Finance | Smart Contracts Audit                    | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/CosmWasm%20Smart%20Contract%20Audits/Audit_Report_CALC-APW_PUBLIC_20.pdf)            | 2024-04-12                |
 | BonusBlock         | Smart Contracts Audit                    | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Solidity%20Smart%20Contract%20Audits/Audit_Report_BBLK-SCA_PUBLIC_20.pdf)            | 2024-04-11                |
 | Freename           | Name Service Smart Contract              | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Solidity%20Smart%20Contract%20Audits/Audit_Report_FRNM-PRO_PUBLIC_20.pdf)            | 2024-04-03                |
