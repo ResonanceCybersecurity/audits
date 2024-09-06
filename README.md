@@ -41,7 +41,11 @@ We offer various types of audits, including:
 | DeFi-Dynamics      | DeFi-Dynamics Solidity Protocol (Sample)          | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Samples/Solidity%20Smart%20Contract%20Audits/Audit_Report_DeFi-DY-SC01_FINAL_16.pdf) | 2023-07-01   |
 | VelocitySoft       | Web App Pentest (Sample)                          | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Samples/Web%20App%20Audits/Audit_Report_VeloSoft-NightTrack-WEB01_FINAL_16.pdf)      | 2023-07-01   |
 
-**Total Audits: 14**
+**Total Public Audits: 14**
+
+❗️
+
+> While this list showcases our public audits, it's important to note that we conduct numerous private audits as well. Many of our clients prefer to keep their audit results confidential, especially before public launches or for proprietary projects. As a result, the number of audits we've performed is higher than what's visible here. Our commitment to security extends across both public and private engagements, ensuring comprehensive coverage in the blockchain and smart contract ecosystem.
 
 ## Contact
 
