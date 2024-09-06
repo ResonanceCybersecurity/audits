@@ -1,22 +1,52 @@
-# audits
+# Resonance Security Public Audits
 
-Resonance Security public audits
+Welcome to the public audits repository of Resonance Security. We specialize in providing comprehensive security audits for blockchain projects, smart contracts, and web applications.
 
-## Reports list
+## Table of Contents
 
-| Project            | Audit Name                                        | PDF Report                                                                                                                                             | Release Date (YYYY-MM-DD) |
-| ------------------ | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------- |
-| RTLabs             | Demether Protocol                                 | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Solidity%20Smart%20Contract%20Audits/Audit_Report_DMTH-PRO_FINAL_20.pdf)             | 2024-08-31                |
-| Cube3              | Protocol RASP v2                                  | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Solidity%20Smart%20Contract%20Audits/Audit_Report_CUBE-RSP_FINAL_21.pdf)             | 2024-08-15                |
-| Hedgey Finance     | Lockup And Delegated Claims Smart Contracts Audit | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Solidity%20Smart%20Contract%20Audits/Audit_Report_HDGY-LKP_FINAL_21.pdf)             | 2024-06-20                |
-| Nodle              | Rollup Bridge Audit                               | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Other/Audit_Report_NODL-RBR_FINAL_20.pdf)                                            | 2024-05-12                |
-| Calculated Finance | Smart Contracts Audit                             | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/CosmWasm%20Smart%20Contract%20Audits/Audit_Report_CALC-APW_PUBLIC_20.pdf)            | 2024-04-12                |
-| BonusBlock         | Smart Contracts Audit                             | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Solidity%20Smart%20Contract%20Audits/Audit_Report_BBLK-SCA_PUBLIC_20.pdf)            | 2024-04-11                |
-| Freename           | Name Service Smart Contract                       | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Solidity%20Smart%20Contract%20Audits/Audit_Report_FRNM-PRO_PUBLIC_20.pdf)            | 2024-04-03                |
-| Cube3              | Protocol RASP                                     | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Solidity%20Smart%20Contract%20Audits/Audit_Report_CUBE-C3P_FINAL_20.pdf)             | 2023-11-24                |
-| Primex Finance     | Spot Margin Trading Protocol                      | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Solidity%20Smart%20Contract%20Audits/Audit_Report_PRMX-TRP_FINAL_20.pdf)             | 2023-10-19                |
-| Bloq               | Metronome Synth Cross-Chain Integration           | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Solidity%20Smart%20Contract%20Audits/Audit_Report_BLOQ-MSC_FINAL_20.pdf)             | 2023-10-05                |
-| UBET Sports        | UBET Sports Betting Platform                      | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Solidity%20Smart%20Contract%20Audits/Audit_Report_UBET-SBP_FINAL_20.pdf)             | 2023-09-06                |
-| Blend Foundation   | Blend Protocol                                    | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/CosmWasm%20Smart%20Contract%20Audits/Audit_Report_BLEND-PRO_FINAL.pdf)               | 2023-08-14                |
-| DeFi-Dynamics      | DeFi-Dynamics Solidity Protocol (Sample)          | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Samples/Solidity%20Smart%20Contract%20Audits/Audit_Report_DeFi-DY-SC01_FINAL_16.pdf) | 2023-07-01                |
-| VelocitySoft       | Web App Pentest (Sample)                          | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Samples/Web%20App%20Audits/Audit_Report_VeloSoft-NightTrack-WEB01_FINAL_16.pdf)      | 2023-07-01                |
+- [Introduction](#introduction)
+- [Types of Audits](#types-of-audits)
+- [Reports List](#reports-list)
+- [Contact](#contact)
+
+## Introduction
+
+Resonance Security is committed to enhancing the security of blockchain ecosystems. Our team of expert auditors conducts thorough examinations of smart contracts and protocols to identify vulnerabilities and provide recommendations for improvement.
+
+## Types of Audits
+
+We offer various types of audits, including:
+
+- Solidity Smart Contract Audits
+- CosmWasm Smart Contract Audits
+- Web Application Penetration Testing
+- Protocol Security Assessments
+
+## Reports List
+
+| Project            | Audit Name                                        | PDF Report                                                                                                                                             | Release Date |
+| ------------------ | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ |
+| RTLabs             | Demether Protocol                                 | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Solidity%20Smart%20Contract%20Audits/Audit_Report_DMTH-PRO_FINAL_20.pdf)             | 2024-08-31   |
+| Cube3              | Protocol RASP v2                                  | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Solidity%20Smart%20Contract%20Audits/Audit_Report_CUBE-RSP_FINAL_21.pdf)             | 2024-08-15   |
+| Hedgey Finance     | Lockup And Delegated Claims Smart Contracts Audit | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Solidity%20Smart%20Contract%20Audits/Audit_Report_HDGY-LKP_FINAL_21.pdf)             | 2024-06-20   |
+| Nodle              | Rollup Bridge Audit                               | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Other/Audit_Report_NODL-RBR_FINAL_20.pdf)                                            | 2024-05-12   |
+| Calculated Finance | Smart Contracts Audit                             | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/CosmWasm%20Smart%20Contract%20Audits/Audit_Report_CALC-APW_PUBLIC_20.pdf)            | 2024-04-12   |
+| BonusBlock         | Smart Contracts Audit                             | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Solidity%20Smart%20Contract%20Audits/Audit_Report_BBLK-SCA_PUBLIC_20.pdf)            | 2024-04-11   |
+| Freename           | Name Service Smart Contract                       | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Solidity%20Smart%20Contract%20Audits/Audit_Report_FRNM-PRO_PUBLIC_20.pdf)            | 2024-04-03   |
+| Cube3              | Protocol RASP                                     | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Solidity%20Smart%20Contract%20Audits/Audit_Report_CUBE-C3P_FINAL_20.pdf)             | 2023-11-24   |
+| Primex Finance     | Spot Margin Trading Protocol                      | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Solidity%20Smart%20Contract%20Audits/Audit_Report_PRMX-TRP_FINAL_20.pdf)             | 2023-10-19   |
+| Bloq               | Metronome Synth Cross-Chain Integration           | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Solidity%20Smart%20Contract%20Audits/Audit_Report_BLOQ-MSC_FINAL_20.pdf)             | 2023-10-05   |
+| UBET Sports        | UBET Sports Betting Platform                      | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Solidity%20Smart%20Contract%20Audits/Audit_Report_UBET-SBP_FINAL_20.pdf)             | 2023-09-06   |
+| Blend Foundation   | Blend Protocol                                    | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/CosmWasm%20Smart%20Contract%20Audits/Audit_Report_BLEND-PRO_FINAL.pdf)               | 2023-08-14   |
+| DeFi-Dynamics      | DeFi-Dynamics Solidity Protocol (Sample)          | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Samples/Solidity%20Smart%20Contract%20Audits/Audit_Report_DeFi-DY-SC01_FINAL_16.pdf) | 2023-07-01   |
+| VelocitySoft       | Web App Pentest (Sample)                          | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Samples/Web%20App%20Audits/Audit_Report_VeloSoft-NightTrack-WEB01_FINAL_16.pdf)      | 2023-07-01   |
+
+**Total Audits: 14**
+
+## Contact
+
+For inquiries about our audit services or to request an audit, please contact us at:
+
+- Email: [contact@resonancesecurity.com](mailto:contact@resonancesecurity.com)
+- Website: [https://resonancesecurity.com](https://resonancesecurity.com)
+- Twitter: [@ResonanceSec](https://twitter.com/ResonanceSec)
