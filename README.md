@@ -26,6 +26,7 @@ We offer various types of audits, including:
 
 | Project            | Audit Name                                        | PDF Report                                                                                                                                             | Release Date |
 | ------------------ | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ |
+| Velvet Capital     | V3 Smart Contracts                                | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Solidity%20Smart%20Contract%20Audits/Audit_Report_VLVT-V3C_FINAL_21.pdf)             | 2024-09-19   |
 | RTLabs             | Demether Protocol                                 | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Solidity%20Smart%20Contract%20Audits/Audit_Report_DMTH-PRO_FINAL_20.pdf)             | 2024-08-31   |
 | Cube3              | Protocol RASP v2                                  | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Solidity%20Smart%20Contract%20Audits/Audit_Report_CUBE-RSP_FINAL_21.pdf)             | 2024-08-15   |
 | Hedgey Finance     | Lockup And Delegated Claims Smart Contracts Audit | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Solidity%20Smart%20Contract%20Audits/Audit_Report_HDGY-LKP_FINAL_21.pdf)             | 2024-06-20   |
