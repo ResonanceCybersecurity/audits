@@ -26,6 +26,7 @@ We offer various types of audits, including:
 
 | Project            | Audit Name                                        | PDF Report                                                                                                                                             | Release Date |
 | ------------------ | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ |
+| NettyWorth           | Lending Protocol Audit                            | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Solidity%20Smart%20Contract%20Audits/Audit_Report_NTYW-LEN_FINAL_22.pdf)             | 2024-11-26   |
 | Hedgey Finance     | Delegated Claims Smart Contract Audit             | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Solidity%20Smart%20Contract%20Audits/Audit_Report_HDGY-DLG_FINAL_21.pdf)             | 2024-11-12   |
 | Primex Finance     | Primex Protocol BugReview Audit                   | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Solidity%20Smart%20Contract%20Audits/Audit_Report_PRMX-BUG_FINAL_21.pdf)             | 2024-10-14   |
 | Primex Finance     | Primex Protocol FlashLoan Integration Audit       | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Solidity%20Smart%20Contract%20Audits/Audit_Report_PRMX-FLI_FINAL_21.pdf)             | 2024-10-14   |
@@ -47,7 +48,7 @@ We offer various types of audits, including:
 | DeFi-Dynamics      | DeFi-Dynamics Solidity Protocol (Sample)          | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Samples/Solidity%20Smart%20Contract%20Audits/Audit_Report_DeFi-DY-SC01_FINAL_16.pdf) | 2023-07-01   |
 | VelocitySoft       | Web App Pentest (Sample)                          | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Samples/Web%20App%20Audits/Audit_Report_VeloSoft-NightTrack-WEB01_FINAL_16.pdf)      | 2023-07-01   |
 
-**Total Public Audits: 19**
+**Total Public Audits: 20**
 
 ❗️
 
