@@ -27,6 +27,7 @@ We offer various types of audits, including:
 
 | Project            | Audit Name                                        | PDF Report                                                                                                                                             | Release Date |
 | ------------------ | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ |
+| BlockGuard         | BlockGuard FusioToken Smart Contract Audit        | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Solidity%20Smart%20Contract%20Audits/Audit_Report_BLKG-TOK_FINAL_21.pdf)             | 2025-05-07   |
 | Intellex           | Vault And Token Smart Contract Audit              | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Rust%20Smart%20Contract%20Audits/Audit_Report_ITLX-VTK_FINAL_21.pdf)                 | 2025-04-23   |
 | Dein               | Dein Smart Contract Audit                         | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Solidity%20Smart%20Contract%20Audits/Audit_Report_DEIN-INS_FINAL_21.pdf)             | 2025-04-21   |
 | RTLabs             | Solana Integration Audit                          | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Rust%20Smart%20Contract%20Audits/Audit_Report_DMTH-SOL_FINAL_21.pdf)                 | 2025-02-07   |
@@ -53,7 +54,7 @@ We offer various types of audits, including:
 | DeFi-Dynamics      | DeFi-Dynamics Solidity Protocol (Sample)          | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Samples/Solidity%20Smart%20Contract%20Audits/Audit_Report_DeFi-DY-SC01_FINAL_16.pdf) | 2023-07-01   |
 | VelocitySoft       | Web App Pentest (Sample)                          | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Samples/Web%20App%20Audits/Audit_Report_VeloSoft-NightTrack-WEB01_FINAL_16.pdf)      | 2023-07-01   |
 
-**Total Public Audits: 24**
+**Total Public Audits: 25**
 
 ❗️
 
