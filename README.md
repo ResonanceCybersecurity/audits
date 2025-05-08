@@ -42,6 +42,7 @@ We offer various types of audits, including:
 | RTLabs             | Demether Protocol                                 | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Solidity%20Smart%20Contract%20Audits/Audit_Report_DMTH-PRO_FINAL_20.pdf)             | 2024-08-31   |
 | Cube3              | Protocol RASP v2                                  | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Solidity%20Smart%20Contract%20Audits/Audit_Report_CUBE-RSP_FINAL_21.pdf)             | 2024-08-15   |
 | Hedgey Finance     | Lockup And Delegated Claims Smart Contracts Audit | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Solidity%20Smart%20Contract%20Audits/Audit_Report_HDGY-LKP_FINAL_21.pdf)             | 2024-06-20   |
+| Decentric          | IDO Platform Smart Contracts Audit        | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Solidity%20Smart%20Contract%20Audits/Audit_Report_DCEN-IDO_PUBLIC_20.pdf)             | 2024-06-26   |
 | Nodle              | Rollup Bridge Audit                               | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Other/Audit_Report_NODL-RBR_FINAL_20.pdf)                                            | 2024-05-12   |
 | Calculated Finance | Smart Contracts Audit                             | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/CosmWasm%20Smart%20Contract%20Audits/Audit_Report_CALC-APW_PUBLIC_20.pdf)            | 2024-04-12   |
 | BonusBlock         | Smart Contracts Audit                             | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Solidity%20Smart%20Contract%20Audits/Audit_Report_BBLK-SCA_PUBLIC_20.pdf)            | 2024-04-11   |
@@ -54,7 +55,7 @@ We offer various types of audits, including:
 | DeFi-Dynamics      | DeFi-Dynamics Solidity Protocol (Sample)          | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Samples/Solidity%20Smart%20Contract%20Audits/Audit_Report_DeFi-DY-SC01_FINAL_16.pdf) | 2023-07-01   |
 | VelocitySoft       | Web App Pentest (Sample)                          | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Samples/Web%20App%20Audits/Audit_Report_VeloSoft-NightTrack-WEB01_FINAL_16.pdf)      | 2023-07-01   |
 
-**Total Public Audits: 25**
+**Total Public Audits: 26**
 
 ❗️
 
