@@ -27,6 +27,7 @@ We offer various types of audits, including:
 
 | Project            | Audit Name                                        | PDF Report                                                                                                                                             | Release Date |
 | ------------------ | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ |
+| LivLive         | LivLive Smart Contract Audit        | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Solidity%20Smart%20Contract%20Audits/Audit_Report_LIV-NFT_FINAL_21.pdf)             | 2025-07-15   |
 | Nodle         | Nodle Staking Smart Contract Audit        | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Solidity%20Smart%20Contract%20Audits/Audit_Report_NODL-STK_FINAL_21.pdf)             | 2025-07-11   |
 | BlockGuard         | BlockGuard FusioToken Smart Contract Audit        | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Solidity%20Smart%20Contract%20Audits/Audit_Report_BLKG-TOK_FINAL_21.pdf)             | 2025-05-07   |
 | Intellex           | Vault And Token Smart Contract Audit              | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Rust%20Smart%20Contract%20Audits/Audit_Report_ITLX-VTK_FINAL_21.pdf)                 | 2025-04-23   |
