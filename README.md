@@ -27,6 +27,7 @@ We offer various types of audits, including:
 
 | Project            | Audit Name                                        | PDF Report                                                                                                                                             | Release Date |
 | ------------------ | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ |
+| Morpher USPD         | USPD Smart Contract Audit        | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Solidity%20Smart%20Contract%20Audits/Audit_Report_USPD-NFT_FINAL_21.pdf)             | 2025-08-04   |
 | LivLive         | LivLive Smart Contract Audit        | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Solidity%20Smart%20Contract%20Audits/Audit_Report_LIV-NFT_FINAL_21.pdf)             | 2025-07-15   |
 | Nodle         | Nodle Staking Smart Contract Audit        | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Solidity%20Smart%20Contract%20Audits/Audit_Report_NODL-STK_FINAL_21.pdf)             | 2025-07-11   |
 | BlockGuard         | BlockGuard FusioToken Smart Contract Audit        | [link](https://github.com/ResonanceCybersecurity/audits/blob/main/Solidity%20Smart%20Contract%20Audits/Audit_Report_BLKG-TOK_FINAL_21.pdf)             | 2025-05-07   |
